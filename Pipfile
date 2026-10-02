@@ -11,6 +11,7 @@ importlib-resources = "5.10.0"
 Werkzeug = "2.3.7"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_full_version = "3.8.13"
